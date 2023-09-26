@@ -23,3 +23,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
   <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
 </picture>
+
+
+ # 📊 GitHub Stats :
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iDreamDev&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDreamDev&layout=compact" />
