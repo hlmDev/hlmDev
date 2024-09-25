@@ -4,6 +4,9 @@
  
 <img src="https://github.com/iihlm/iihlm/blob/main/introfinall.gif" width = "500px" hight="600px"/> 
  </div>
+
+ <img align="right" alt="Coding" width = "300px" hight="500px" src="https://raw.githubusercontent.com/hlmDev/iDreamDev/refs/heads/main/face-with-frame.gif">
+
  
 <p>
    
@@ -17,6 +20,9 @@
 <p > 
   <a href="https://www.linkedin.com/in/ahlam-majed-122210215/" title="LinkedIn"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/ width="50px"> </a>  
 </p>
+
+<p>
+ 
 <h3> Languages and Tools <img src='https://github.com/iihlm/iihlm/blob/main/coding.gif' width="40px"> </h3>
 <br>
 
@@ -58,18 +64,6 @@
       alt="AfterEffects" width="50px"</a>
         </p> 
          <br>
-<details close="true">
-  <summary><b>:gear: &nbsp;Git statistics📊📊 </b></summary>
-
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-  <div align="center">
-     
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iihlm&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iihlm&hide=html&layout=compact&theme=highcontrast" />
- </div>
- </details>
-
 
 
 
