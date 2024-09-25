@@ -18,7 +18,7 @@
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
  
 <p > 
-  <a href="https://www.linkedin.com/in/ahlam-majed-122210215/" title="LinkedIn"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/ width="50px"> </a>  
+  <a href=""><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/ width="50px"> </a>  
 </p>
 
 <p>
