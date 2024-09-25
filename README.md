@@ -1,26 +1,75 @@
-
-
-
-
-
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
 <img src="https://github.com/iihlm/iihlm/blob/main/introfinall.gif" width = "500px" hight="600px"/> 
+ </div>
  
-
-<img align="right" alt="Coding" width="195" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2046041-a08f-46bd-85d1-27ffbe7b4585/dbo9hr9-d1c0ac4a-669b-4ff3-b44b-6573079f1867.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ2MDQxLWEwOGYtNDZiZC04NWQxLTI3ZmZiZTdiNDU4NVwvZGJvOWhyOS1kMWMwYWM0YS02NjliLTRmZjMtYjQ0Yi02NTczMDc5ZjE4NjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.owAgL46ZfcMrK0tJ36eAYrhsbo6uST416jtUB-K1SoE">
-
-
-- 💬 Ask me about ` python, php, Java, Data Analysis and Blender!!`
+<p>
+   
+    
+- 🎓 &nbsp; I am a `Information Systems.`
+- ✨ I’m currently `learning Swift` and `DATA SAINCT`
 - 🐼 `Exploring new technologies and developing programming insights.`
-- ✨ `I’m looking to collaborate with other developers to build great stuff`
-  
-
-
-# 🛠 Languages and Tools:
-
-
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="blendr" width="40" height="40"/> </a>
 </p>
+<h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
+ 
+<p > 
+  <a href="https://www.linkedin.com/in/ahlam-majed-122210215/" title="LinkedIn"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/ width="50px"> </a>  
+</p>
+<h3> Languages and Tools <img src='https://github.com/iihlm/iihlm/blob/main/coding.gif' width="40px"> </h3>
+<br>
+
+<p align="center">
+    <a href="https://www.java.com/en/" title="java"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" 
+      alt="Java" width="50px"> </a>
+    <a href="https://www.python.org/" title="python"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+       alt="python" width="50px"> </a>
+    <a href="https://www.w3schools.com/css/" title="html"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
+       alt="html" width="50px"> </a>
+     <a href="https://www.w3schools.com/css/" title="css"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+       alt="css" width="50px"> </a>
+        <a href="https://www.mysql.com/" title="mysql"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
+      alt="mysql" width="50px"> </a>
+      <a href="https://wordpress.com/" title="Wordpress"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg"
+      alt="Wordpress" width="50px"> </a>
+      <a href="https://visualstudio.microsoft.com/" title="VisualStudio"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"
+      alt="VisualStudio" width="50px"> </a>
+      <a href="https://code.visualstudio.com/" title="VSCode"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
+      alt="VSCode" width="50px"> </a>
+           </p>
+         <p>
+        <p align="center">
+         <a href="https://developer.apple.com/swift/" title="swift"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg"
+       alt="swift"width="50px"> </a>
+    <a href="ttps://unity.com/" title="unity"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
+       alt="unity"  width="50px"> 
+       <a href="https://www.figma.com/" title="figma"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
+      alt="figma" width="50px"</a>
+      <a href="https://www.blender.org/" title="Blender"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"
+      alt="Blender" width="50px"</a>
+      <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other" title="Photoshop"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg"
+      alt="Photoshop" width="50px"</a>
+      <a href="https://www.adobe.com/in/products/illustrator.html" title="Illustrator"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg"
+      alt="Illustrator" width="50px"</a>
+       <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other" title="Premiere"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg"
+      alt="Premiere" width="50px"</a>
+       <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg"
+      alt="AfterEffects" width="50px"</a>
+        </p> 
+         <br>
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics📊📊 </b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+  <div align="center">
+     
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iihlm&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iihlm&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ </details>
+
 
 
 
@@ -34,7 +83,3 @@
 </picture>
 
 
- # 📊 GitHub Stats :
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iDreamDev&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDreamDev&layout=compact" />
