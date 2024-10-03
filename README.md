@@ -45,9 +45,7 @@
       alt="VSCode" width="50px"> </a>
            </p>
          <p>
-        <p align="center">
-         <a href="https://developer.apple.com/swift/" title="swift"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg"
-       alt="swift"width="50px"> </a>
+        <p align="center"> 
     <a href="ttps://unity.com/" title="unity"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg"
        alt="unity"  width="50px"> 
        <a href="https://www.figma.com/" title="figma"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
